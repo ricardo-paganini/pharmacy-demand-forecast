@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+P01,Antigripal Comprimidos,Gripe e resfriado,18.9
+P02,Xarope para Tosse,Gripe e resfriado,24.5
+P03,Descongestionante Nasal,Gripe e resfriado,15.9
+P04,Pastilha para Garganta,Gripe e resfriado,12.9
+P05,Vitamina C Efervescente,Vitaminas,21.9
+P06,Multivitamínico,Vitaminas,39.9
+P07,Protetor Solar FPS 30,Proteção solar,49.9
+P08,Protetor Solar FPS 50,Proteção solar,59.9
+P09,Loção Pós-Sol,Proteção solar,34.9
+P10,Repelente de Insetos,Proteção solar,27.9
+P11,Soro de Reidratação,Digestivos,9.9
+P12,Antiácido,Digestivos,11.9
+P13,Dipirona,Analgésicos,8.9
+P14,Paracetamol,Analgésicos,10.9
+P15,Ibuprofeno,Analgésicos,14.9
+P16,Creme Dental,Higiene,6.9
+P17,Sabonete Líquido,Higiene,13.9
+P18,Shampoo,Higiene,19.9
+P19,Desodorante,Higiene,16.9
+P20,Fio Dental,Higiene,9.9
